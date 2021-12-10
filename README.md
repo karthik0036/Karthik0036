@@ -2,7 +2,7 @@
 
 
 
-About me:
+About me:</br>
 -🤔   Exploring technologies such as React, Node.js, Express and MongoDB.</br>
 -🎓   Self Taught and always learning by seeking out new challenges.</br>
 -💼   Currently looking for opportunities for Full Time employment as a Developer.</br>
