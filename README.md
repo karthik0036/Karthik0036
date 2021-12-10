@@ -12,3 +12,4 @@ About me:
 
 ### 🖥️   Front End</br>
   HTML5 CSS3 SASS JavaScript TypeScript React Tailwind Material-ui
+  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
