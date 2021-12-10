@@ -2,7 +2,7 @@
 
 
 
-About me:</br>
+# About me:</br>
 -🤔   Exploring technologies such as React, Node.js, Express and MongoDB.</br>
 -🎓   Self Taught and always learning by seeking out new challenges.</br>
 -💼   Currently looking for opportunities for Full Time employment as a Developer.</br>
@@ -10,8 +10,7 @@ About me:</br>
 -✍️   Improving Building applications and websites skill as a hobby.</br>
 
 
-### 🖥️   Front End</br>
-  HTML5 CSS3 SASS JavaScript TypeScript React Tailwind Material-ui
+# 🖥️   Front End:</br>
  
 ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
