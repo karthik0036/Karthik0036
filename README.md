@@ -54,7 +54,19 @@
 ![alt text](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)</br>
 
 
-![Metrics](https://metrics.lecoq.io/karthik0036?template=classic&isocalendar=1&stargazers=1&activity=1&achievements=1&notable=1&repositories=1&stock=1&skyline=1&languages=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers.charts.type=classic&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&stock.duration=1d&stock.interval=5m&config.timezone=Asia%2FCalcutta)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/karthik0036)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=karthik0036)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik0036)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthik0036&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=karthik0036)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=karthik0036)  
+
+![Profile views](https://gpvc.arturio.dev/karthik0036)  
 
 
 
