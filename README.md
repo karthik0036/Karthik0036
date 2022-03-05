@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Karthik
 
+![Visitor Count](https://profile-counter.glitch.me/{karthik0036}/count.svg)
+
 
 
 ### About me:</br>
