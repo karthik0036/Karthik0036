@@ -62,7 +62,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthik0036&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=karthik0036)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=karthik0036)  
 
