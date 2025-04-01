@@ -56,6 +56,8 @@ Software Development Engineer:</br>
 
 ### ⚙️ IDE:</br>
 ![alt text](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 
 
 ### 📐 Design:</br>
