@@ -33,6 +33,9 @@ Software Development Engineer:</br>
 
 
 ### 🧩  Back End:</br>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Groovy Grails](https://img.shields.io/badge/Groovy%20Grails-4298B8?style=for-the-badge&logo=groovy&logoColor=white)
 ![alt text](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![alt text](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![alt text](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
