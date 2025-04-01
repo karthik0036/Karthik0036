@@ -4,12 +4,16 @@
 
 
 
-### About me:</br>
--🤔   Exploring technologies such as React, Node.js, Express and MongoDB.</br>
--🎓   Self Taught and always learning by seeking out new challenges.</br>
--💼   Currently looking for opportunities for Full Time employment as a Developer.</br>
--🌱   Learning more about Frontend frameworks and Technologies like React js and more.</br>
--✍️   Improving Building applications and websites skill as a hobby.</br>
+### Perfios Software Solutions Private Ltd.:</br>
+Software Development Engineer:</br>
+-🤔   IT professional with 2.5 years of experience in developing and implementing web applications.</br>
+-🤔   Skilled in writing clean Java code and proficient in frameworks like Spring Boot and Hibernate, with a focus on quality and team collaboration.</br>
+-🤔   Developed and maintained over 30 REST APIs using Spring Boot and Spring Cloud to build scalable and resilient microservices architecture.</br>
+-🎓   Hands-on experience with Java 8 features such as streams,lambda expressions to write more concise and efficient code,  completableFuture for handling asynchronous tasks..</br>
+-💼   Designed and implemented RESTful APIs for various services and Extrenal API Integration's, ensuring secure communication using OAuth2, JWT for authentication and authorization..</br>
+-🌱   Worked extensively with databases including MySql and MongoDB, optimizing queries and ensuring efficient data storage and retrieval.</br>
+-✍️   Code migration from Groovy APIs to Java for better future scaling and support with proper Exception Handling.</br>
+
 
 
 
